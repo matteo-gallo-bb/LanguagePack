@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AnySoftKeyboard - Italian Language Pack</string>
-    <string name="keyboard_name">Italian keyboard</string>
+    <string name="keyboard_name">Italian</string>
     <string name="dictionary_name">Italian dictionary from AOSP</string>
 </resources>
